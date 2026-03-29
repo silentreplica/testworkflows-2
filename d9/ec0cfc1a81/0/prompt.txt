@@ -1,0 +1,9 @@
+Create the following files with EXACTLY the content shown (byte-for-byte). Do not add, remove, or change anything. Do not explain.
+
+File: /tmp/aigov-reallife-1449511238/repo/feature-b.ts
+Content:
+```
+export function featureB() {
+  return 'B';
+}
+```
