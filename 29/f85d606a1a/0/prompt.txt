@@ -1,0 +1,13 @@
+Create the following files with EXACTLY the content shown (byte-for-byte). Do not add, remove, or change anything. Do not explain.
+
+File: /tmp/aigov-reallife-1449511238/repo/cross-a.ts
+Content:
+```
+export const a = 1;
+```
+
+File: /tmp/aigov-reallife-1449511238/repo/cross-b.ts
+Content:
+```
+// AI-generated placeholder
+```
