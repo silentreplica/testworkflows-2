@@ -1,0 +1,13 @@
+Create the following files with EXACTLY the content shown (byte-for-byte). Do not add, remove, or change anything. Do not explain.
+
+File: /tmp/aigov-reallife-1449511238/repo/auth_test.go
+Content:
+```
+package main
+
+import "testing"
+
+func TestAuth(t *testing.T) {
+	if !auth() { t.Fatal() }
+}
+```
