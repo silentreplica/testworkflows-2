@@ -1,3 +1,5 @@
 export function query(sql: string) {
-  return pool.query(sql);
+  try {
+    return pool.query(sql);
+  } catch (e) { throw new Error(`DB: ${e}`); }
 }
